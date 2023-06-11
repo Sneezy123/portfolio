@@ -27,8 +27,8 @@ body {
 }
 
 .intro .span {
-    text-shadow: 0pt 0pt 5pt ;
-    color: ;
+    text-shadow: 0pt 0pt 5pt yellow;
+    color: yellow;
 }
 
 .intro .start {
