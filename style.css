@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(8, 8, 8);
+}
+
+.titles {
+    font-family: Tahoma;
+    font-size: 63pt;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    text-shadow: 0pt 0pt 10pt rgba(255, 255, 255, 0.601);
+    text-decoration: underline;
+}
+
+.intro {
+    font-family: Tahoma;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.intro a {
+    font-family: Tahoma;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 0pt 0pt 3pt white;
+}
+
+.intro .span {
+    text-shadow: 0pt 0pt 5pt ;
+    color: ;
+}
+
+.intro .start {
+    font-family: Tahoma;
+    color: white;
+    font-size: 46pt;
+    text-align: center;
+}
