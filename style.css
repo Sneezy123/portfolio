@@ -4,17 +4,17 @@ body {
 
 .titles {
     font-family: Tahoma;
-    font-size: 63pt;
+    font-size: 126pt;
     text-align: center;
     color: hsl(0, 0%, 100%);
-    text-shadow: 0pt 0pt 10pt rgba(255, 255, 255, 0.601);
+    text-shadow: 0pt 0pt 20pt rgba(255, 255, 255, 0.601);
     text-decoration: underline;
 }
 
 .intro {
     font-family: Tahoma;
     color: white;
-    font-size: large;
+    font-size: 28pt;
     text-align: center;
 }
 
@@ -23,17 +23,17 @@ body {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    text-shadow: 0pt 0pt 3pt white;
+    text-shadow: 0pt 0pt 6pt white;
 }
 
 .intro .span {
-    text-shadow: 0pt 0pt 5pt yellow;
+    text-shadow: 0pt 0pt 10pt yellow;
     color: yellow;
 }
 
 .intro .start {
     font-family: Tahoma;
     color: white;
-    font-size: 46pt;
+    font-size: 92pt;
     text-align: center;
 }
